@@ -6,12 +6,12 @@ technical content featuring technical sessions and hundreds of demonstrations
 from developers showcasing their technologies.
 
 This project is the Android app for the conference. The app supports devices
-running Android 4.0+, and is optimized for phones and tablets of all shapes
+running Android 5.0+, and is optimized for phones and tablets of all shapes
 and sizes.
 
 <h2>Source</h2>
 
-The source code in this repository reflects the app as of I/O 2016.
+The source code in this repository reflects the app as of I/O 2017.
 
 <h2>Features</h2>
 
@@ -35,7 +35,7 @@ We hope the source code for this app is useful for you as a reference or startin
   * [Build instructions](doc/BUILDING.md): instructions on how to build and run the code.
   * [Sync protocol and data format](doc/SYNC.md)
   * [Image loading](doc/IMAGES.md)
-  * [Use of GCM](doc/GCM.md)
+  * [Use of FCM](doc/FCM.md)
   * [Customization guide](doc/CUSTOM.md)
 
 <h2>Copyright</h2>
